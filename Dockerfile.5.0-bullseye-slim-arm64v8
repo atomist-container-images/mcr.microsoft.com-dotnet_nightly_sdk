@@ -1,0 +1,3 @@
+# Tags: 5.0-bullseye-slim-arm64v8, 5.0.403-bullseye-slim-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/sdk:5.0-bullseye-slim-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/sdk:5.0.403-bullseye-slim-arm64v8

@@ -1,0 +1,4 @@
+# Tags: 7.0-alpine-arm32v7, 7.0-alpine3.15-arm32v7, 7.0.100-alpha.1-alpine3.15-arm32v7
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0-alpine-arm32v7
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0-alpine3.15-arm32v7
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0.100-alpha.1-alpine3.15-arm32v7

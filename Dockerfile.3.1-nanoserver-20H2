@@ -1,0 +1,5 @@
+# Tags: 3.1-nanoserver-20H2, 3.1-nanoserver-2009, 3.1.415-nanoserver-20H2, 3.1.415-nanoserver-2009
+FROM mcr.microsoft.com/dotnet/nightly/sdk:3.1-nanoserver-20H2
+FROM mcr.microsoft.com/dotnet/nightly/sdk:3.1-nanoserver-2009
+FROM mcr.microsoft.com/dotnet/nightly/sdk:3.1.415-nanoserver-20H2
+FROM mcr.microsoft.com/dotnet/nightly/sdk:3.1.415-nanoserver-2009

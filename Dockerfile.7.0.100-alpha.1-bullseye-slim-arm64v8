@@ -1,0 +1,3 @@
+# Tags: 7.0.100-alpha.1-bullseye-slim-arm64v8, 7.0-bullseye-slim-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0.100-alpha.1-bullseye-slim-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0-bullseye-slim-arm64v8
