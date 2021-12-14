@@ -1,3 +1,0 @@
-# Tags: 6.0-alpine3.14-amd64, 6.0.100-alpine3.14-amd64
-FROM mcr.microsoft.com/dotnet/nightly/sdk:6.0-alpine3.14-amd64
-FROM mcr.microsoft.com/dotnet/nightly/sdk:6.0.100-alpine3.14-amd64

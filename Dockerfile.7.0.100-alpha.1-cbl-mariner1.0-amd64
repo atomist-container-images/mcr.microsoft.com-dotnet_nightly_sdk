@@ -1,3 +1,0 @@
-# Tags: 7.0.100-alpha.1-cbl-mariner1.0-amd64, 7.0-cbl-mariner1.0-amd64
-FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0.100-alpha.1-cbl-mariner1.0-amd64
-FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0-cbl-mariner1.0-amd64
